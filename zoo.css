@@ -6,9 +6,10 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
+    background-color: #27bc0a;
+    color: #ceffbd;
+    padding: 14px;
+    text-align: center;
 }
 
 header h1 {
@@ -24,10 +25,12 @@ nav ul {
 nav li {
     display: inline;
     margin-right: 20px;
+    
 }
 
 nav a {
-    color: #fff;
+    color: #d9f9d3;
+    text-align: center;
     text-decoration: none;
 }
 
@@ -36,8 +39,8 @@ main {
 }
 
 footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
+    background-color: #214a6e;
+    color: #dafdf9;
+    padding: 9px;
     text-align: center;
 }
